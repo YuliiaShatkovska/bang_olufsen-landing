@@ -22,10 +22,8 @@ A sleek and modern landing page designed for Bang & Olufsen, showcasing their pr
    ````bash
    git clone https://github.com/your-username/bang-olufsen-landing-page.git
    cd bang-olufsen-landing-page
-   ```bash
-
-   ````
-
+   ```
+   
 2. Install dependencies:
 
 ```bash
