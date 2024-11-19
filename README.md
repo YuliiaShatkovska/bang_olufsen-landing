@@ -20,8 +20,8 @@ A sleek and modern landing page designed for Bang & Olufsen, showcasing their pr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bang-olufsen-landing-page.git
-   cd bang-olufsen-landing-page
+   git clone https://github.com/your-username/bang_olufsen-landing.git
+   cd bang_olufsen-landing
    ```
    
 2. Install dependencies:
